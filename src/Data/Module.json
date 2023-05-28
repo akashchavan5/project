@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "modulename": " Core-Java",
+    "imgg": "D:/WPT_PROJECT/my-react-project/src/Data/moduleimg/JAVA.png"
+  },
+  {
+    "id": 2,
+    "modulename": "DBMS",
+    "imgg": "D:/WPT_PROJECT/my-react-project/src/Data/moduleimg/DBMS.png"
+  },
+  {
+    "id": 3,
+    "modulename": "Web Development",
+    "imgg": "D:/WPT_PROJCECT/my-react-project/src/Data/moduleimg/web-development.png"
+  }
+]

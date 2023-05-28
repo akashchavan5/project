@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "coursename": "CDAC_PG-DAC",
+    "courseyear": "2023",
+    "institute": "CDAC Kochi",
+    "grade": "Pursuing"
+  },
+  {
+    "id": 2,
+    "coursename": "B.Tech in Mechanical Engineering",
+    "courseyear": "2021",
+    "institute": "DBATU University",
+    "grade": "79.28% Percentage"
+  },
+  {
+    "id": 3,
+    "coursename": "Diploma in Mechanical Engineering",
+    "courseyear": "2019",
+    "institute": "MSBTE Mumbai",
+    "grade": "68% Percentage"
+  },
+  {
+    "id": 4,
+    "coursename": "SSC",
+    "courseyear": "2018",
+    "institute": "Satara English Medium School,Satara",
+    "grade": "62.83% Percentage"
+  }
+]
